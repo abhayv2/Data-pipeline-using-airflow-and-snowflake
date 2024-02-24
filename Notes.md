@@ -18,7 +18,7 @@ Publish the results of the data analysis to Amazon Simple Notification Service (
 
 ## Workflow
 
-![Overview](/../<screenshot>/path/to/overview_solution.png?raw=true)
+![Overview](https://github.com/abhayv2/Data-pipeline-using-airflow-and-snowflake/blob/screenshot/overview_solution.png?raw=true)
 
 ## Project Files:
 
