@@ -18,7 +18,7 @@ Publish the results of the data analysis to Amazon Simple Notification Service (
 
 ## Workflow
 
-![alt text](/overview_solution.png)
+![Overview](overview_solution.png)
 
 ## Project Files:
 
